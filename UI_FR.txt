@@ -1,0 +1,17 @@
+rLib_FR =
+{
+	UI_rLib_VehicleOverlayEditor = "Éditeur de superposition",
+	UI_rLib_VehicleOverlayEditor_default = "défaut",
+	UI_rLib_VehicleOverlayEditor_custom = "personnalisé",
+	UI_rLib_VehicleOverlayEditor_VehicleAdd = "Ajouter la configuration du véhicule",
+	UI_rLib_VehicleOverlayEditor_VehicleDel = "Retirer",
+	UI_rLib_VehicleOverlayEditor_VehiclePrefixNew = "Entrez le préfixe des textures du véhicule\n\nNom du fichier de texture de base:\nsuperposition média/interface utilisateur/véhicules/mécanique/[PREFIX]base.png\n",
+	UI_rLib_VehicleOverlayEditor_PartTextureAdd = "Ajouter une configuration de texture",
+	UI_rLib_VehicleOverlayEditor_PartTextureDel = "Retirer",
+	UI_rLib_VehicleOverlayEditor_PartSpotAdd = "Ajouter une configuration de point d'accès",
+	UI_rLib_VehicleOverlayEditor_PartSpotDel = "Retirer",
+	UI_rLib_VehicleOverlayEditor_Generate = "Copier dans le presse-papier",
+	UI_rLib_VehicleOverlayEditor_WarningPrefixInUse = "AVERTISSEMENT: Préfixe des textures '%1' déjà utilisé\n\n%2",
+	UI_rLib_VehicleOverlayEditor_ErrorTextureNameEmpty = "ERREUR: Le nom du fichier de texture ne peut pas être vide",
+	UI_rLib_VehicleOverlayEditor_ErrorTextureNameInvalid = "ERREUR: La texture n'existe pas ou ne peut pas être chargée\n\n%1"
+}
